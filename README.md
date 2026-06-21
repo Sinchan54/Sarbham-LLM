@@ -19,11 +19,11 @@ Download/pull and run Use the sampleTest.py file
 
 ### Process for running the test file.
 
--- git pull or download sampleTest.py file
--- pip install requests (you can create a virtual environment and perform the requests library installation)[create a virtual environemnet by running "python -m venv .venv" in command line]
--- open the sampleTest.py file and edit the API_KEY (look above for API_KEY)
--- in command line terminal navigate to the folder of sampleTest.py file and run "python sampleTest.py"
--- to change the question/prompt open the sampleTest.py file in editor mode and change the "prompt" variable.
+-- git pull or download sampleTest.py file \
+-- pip install requests (you can create a virtual environment and perform the requests library installation)[create a virtual environemnet by running "python -m venv .venv" in command line] \
+-- open the sampleTest.py file and edit the API_KEY (look above for API_KEY) \
+-- in command line terminal navigate to the folder of sampleTest.py file and run "python sampleTest.py" \
+-- to change the question/prompt open the sampleTest.py file in editor mode and change the "prompt" variable. \
 
 
 ## 🤝 Community & Support
