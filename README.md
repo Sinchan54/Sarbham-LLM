@@ -2,8 +2,7 @@
 
 **API_KEY: DAI1DAI2**
 
-[![Open Source Love](https://frapsoft.com)](https://github.com)
-[[License: MIT](https://shields.io)](https://opensource.org)
+MIT license
 
 A repository for all Sarbham large language models.
 
